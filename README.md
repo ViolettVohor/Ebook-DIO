@@ -11,11 +11,11 @@ ChatGPT:
 "Faça um texto para ebook, com o tema de Docker, listando os principais comandos com exemplo.
 
 {Regras}
-> Explique sempre de uma maneira simples
-> Deixe todo o texto enxuto
-> Sempre traga exemplos de cógido em contextos reais
-> Sempre deixe um título sugestivo por tópico
-> Escreva em português"
+- Explique sempre de uma maneira simples
+- Deixe todo o texto enxuto
+- Sempre traga exemplos de cógido em contextos reais
+- Sempre deixe um título sugestivo por tópico
+- Escreva em português"
 
 Designer:
 "Create an illustration of the Sunny from One Piece, but instead of the usual lion figurehead, replace it with the whale from Docker. Maintain the distinctive art style of the One Piece anime."
